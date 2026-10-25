@@ -1,0 +1,5 @@
+.env*
+*.neisatt
+*.jks
+*.keystore
+node_modules/
